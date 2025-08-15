@@ -11,8 +11,12 @@ Trained on the **APTOS 2019 Blindness Detection** dataset.
 ### 2️⃣ Download Pre-trained Model
 [Download diabetic_retinopathy.keras](https://drive.google.com/uc?export=download&id=1tUnlRGc7LhOWvmD10n1cgLGkfCFwAaeU) → place in project root.
 
-### 3️⃣ Install Requirements 
+### 3️⃣ Install Requirements
 ```bash
 pip install -r requirements.txt
-RUN THE PROJECT 
+```
+
+### 4️⃣ Run the Project
+```bash
 jupyter notebook NEWDIABETIC.ipynb
+```
